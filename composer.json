@@ -20,7 +20,7 @@
         "php" : "^7.4",
         "ext-json": "^7.4",
         "hurah/data-types" :  "^1.0.0",
-        "twig/twig": "2.14.1",
+        "twig/twig": "3.0.0",
         "propel/propel": "~2.0@dev",
         "monolog/monolog": "1.24.*"
     },
