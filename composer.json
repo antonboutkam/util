@@ -17,8 +17,8 @@
         }
     },
     "require": {
-        "php" : "^7.4",
-        "ext-json": "^7.4",
+        "php" : "^7.4 || 8.0.*",
+        "ext-json": "*",
         "hurah/data-types" :  "^1.0.0",
         "twig/twig": "3.0.0",
         "propel/propel": "~2.0@dev",
